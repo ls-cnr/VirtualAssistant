@@ -1,0 +1,12 @@
+numpy
+pygame
+pyaudio
+torch 
+torchvision 
+torchaudio
+gTTS
+transformers
+scipy
+accelerate
+langchain
+langchain-community
